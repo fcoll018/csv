@@ -1,4 +1,4 @@
-brand,model,height - mm,capacity - mAh,cdr - A,style,price,use case
+brand,model,height_mm,capacity_mAh,cdr_A,style,price,use case
 Samsung,25r,64.85,2500,20,flat top unprotected,4.99,"standard, regulated, balanced"
 Samsung,30q,64.85,3000,15,flat top unprotected,5.99,"standard, regulated, low-drain/high capacity"
 Sony/Murata,VTC5A,65,2600,25,flat top unprotected,7.99,"standard, regulated, balanced"
@@ -20,18 +20,18 @@ Panasonic/Sanyo,NCR18650GA,69.5,3450,5,button top protected,9.99,"large, non-reg
 Samsung,30Q,69.8,3000,15,button top protected,9.99,"large, non-regulated, low-drain/high capacity"
 Samsung,26J,69.7,2600,5,button top protected,4.99,"large, non-regulated, low-drain/high capacity"
 Samsung,35E,70.1,3500,5,button top protected,9.99,"large, non-regulated, low-drain/high capacity"
-Panasonic/Sanyo,NCR18650PF,65.3,2880,10,flat top unprotected,4.49,
-Samsung,35E,65.25,3500,8,flat top unprotected,5.99,
-Panasonic/Sanyo,NCR18650BD,65,3180,10,flat top unprotected,5.99,
-Samsung,26J,65,2600,5.2,flat top unprotected,4.99,
-Panasonic/Sanyo,NCR18650G,65.08,3550,8,flat top unprotected,6.99,
-Samsung,30q,66.5,3000,15,button top unprotected,7.99,
-Sony/Murata,VTC6,65.8,3000,15,button top unprotected,7.99,
-Sony/Murata,VTC5A,66.6,2600,25,button top unprotected,7.99,
-Panasonic/Sanyo,NCR18650A,64.98,3100,6.2,flat top unprotected,2.99,
-Sony/Murata,VC7,64.9,3500,8,flat top unprotected,6.99,
-Panasonic/Sanyo,NCR18650BL,65.12,3350,7,flat top unprotected,5.99,
-Panasonic/Sanyo,UR18650ZY,64.7,2600,5,flat top unprotected,4.99,
-Panasonic/Sanyo,NCR18650BF,65.1,3350,4.87,flat top unprotected,5.99,
-Panasonic/Sanyo,UR18650RX,65.1,2050,20,flat top unprotected,3.99,
-Samsung,35E,67,3500,8,button top unprotected,7.99,
+Panasonic/Sanyo,NCR18650PF,65.3,2880,10,flat top unprotected,4.49,"standard, regulated, low-drain/high capacity"
+Samsung,35E,65.25,3500,8,flat top unprotected,5.99,"standard, regulated, low-drain/high capacity"
+Panasonic/Sanyo,NCR18650BD,65,3180,10,flat top unprotected,5.99,"standard, regulated, low-drain/high capacity"
+Samsung,26J,65,2600,5.2,flat top unprotected,4.99,"standard, regulated, low-drain/high capacity"
+Panasonic/Sanyo,NCR18650G,65.08,3550,8,flat top unprotected,6.99,"standard, regulated, low-drain/high capacity"
+Samsung,30q,66.5,3000,15,button top unprotected,7.99,"standard, regulated, low-drain/high capacity"
+Sony/Murata,VTC6,65.8,3000,15,button top unprotected,7.99,"standard, regulated, low-drain/high capacity"
+Sony/Murata,VTC5A,66.6,2600,25,button top unprotected,7.99,"standard, regulated, balanced"
+Panasonic/Sanyo,NCR18650A,64.98,3100,6.2,flat top unprotected,2.99,"standard, regulated, low-drain/high capacity"
+Sony/Murata,VC7,64.9,3500,8,flat top unprotected,6.99,"standard, regulated, low-drain/high capacity"
+Panasonic/Sanyo,NCR18650BL,65.12,3350,7,flat top unprotected,5.99,"standard, regulated, low-drain/high capacity"
+Panasonic/Sanyo,UR18650ZY,64.7,2600,5,flat top unprotected,4.99,"standard, regulated, low-drain/high capacity"
+Panasonic/Sanyo,NCR18650BF,65.1,3350,4.87,flat top unprotected,5.99,"standard, regulated, low-drain/high capacity"
+Panasonic/Sanyo,UR18650RX,65.1,2050,20,flat top unprotected,3.99,"standard, regulated, balanced"
+Samsung,35E,67,3500,8,button top unprotected,7.99,"large, non-regulated, low-drain/high capacity"
